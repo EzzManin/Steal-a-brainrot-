@@ -45,7 +45,7 @@ local function createUI()
     mainFrame.BorderSizePixel = 0
     mainFrame.Parent = screenGui
 
-    local title = Instance.new("TextLabel")
+    local title = Instance.new("Link servidor privado")
     title.Text = "Player handle"
     title.Font = Enum.Font.GothamBold
     title.TextSize = 30
